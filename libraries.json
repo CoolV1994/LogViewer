@@ -1,0 +1,24 @@
+{
+  "version": "4.0",
+  "libraries": [
+    "com.corundumstudio.socketio:netty-socketio:1.7.7",
+    "org.slf4j:slf4j-api:1.7.7",
+    "org.slf4j:slf4j-simple:1.7.7",
+    "io.netty:netty-buffer:4.0.25.Final",
+    "io.netty:netty-common:4.0.25.Final",
+    "io.netty:netty-codec:4.0.25.Final",
+    "io.netty:netty-codec-http:4.0.25.Final",
+    "io.netty:netty-handler:4.0.25.Final",
+    "io.netty:netty-transport:4.0.25.Final",
+    "io.netty:netty-transport-native-epoll:4.0.25.Final",
+    "com.fasterxml.jackson.core:jackson-core:2.4.3",
+    "com.fasterxml.jackson.core:jackson-databind:2.4.3",
+    "com.fasterxml.jackson.core:jackson-annotations:2.4.0",
+    "io.socket:socket.io-client:0.6.2",
+    "io.socket:engine.io-client:0.6.2",
+    "org.json:json:20090211",
+    "com.squareup.okio:okio:1.6.0",
+    "com.squareup.okhttp:okhttp:2.5.0",
+    "com.squareup.okhttp:okhttp-ws:2.5.0"
+  ]
+}
