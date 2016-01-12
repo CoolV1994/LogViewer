@@ -1,5 +1,4 @@
 {
-  "version": "4.0",
   "libraries": [
     {
       "name": "com.corundumstudio.socketio:netty-socketio:1.7.7"
