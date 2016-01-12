@@ -1,61 +1,80 @@
 {
   "libraries": [
     {
-      "name": "com.corundumstudio.socketio:netty-socketio:1.7.7"
+      "name": "com.corundumstudio.socketio:netty-socketio:1.7.7",
+      "hash": "CAAF71B52FA2DBD81DBC30E5667E5BD4"
     },
     {
-      "name": "org.slf4j:slf4j-api:1.7.7"
+      "name": "org.slf4j:slf4j-api:1.7.7",
+      "hash": "CA4280BF93D64367723AE5C8D42DD0B9"
     },
     {
-      "name": "org.slf4j:slf4j-simple:1.7.7"
+      "name": "org.slf4j:slf4j-simple:1.7.7",
+      "hash": "C9847347B8FF4392A99B026440CC451E"
     },
     {
-      "name": "io.netty:netty-buffer:4.0.25.Final"
+      "name": "io.netty:netty-buffer:4.0.25.Final",
+      "hash": "8636F63FA19CDE4AFBA18B0D15E2AA1E"
     },
     {
-      "name": "io.netty:netty-common:4.0.25.Final"
+      "name": "io.netty:netty-common:4.0.25.Final",
+      "hash": "A11D5CE6374CB93EE849808787023093"
     },
     {
-      "name": "io.netty:netty-codec:4.0.25.Final"
+      "name": "io.netty:netty-codec:4.0.25.Final",
+      "hash": "8824677F426BE4EB37442CE5CA9A76B9"
     },
     {
-      "name": "io.netty:netty-codec-http:4.0.25.Final"
+      "name": "io.netty:netty-codec-http:4.0.25.Final",
+      "hash": "906ADA7E6B05A55DB5A5E4438A255447"
     },
     {
-      "name": "io.netty:netty-handler:4.0.25.Final"
+      "name": "io.netty:netty-handler:4.0.25.Final",
+      "hash": "9B0E5F69772BAC79B740EBA5AD35C52E"
     },
     {
-      "name": "io.netty:netty-transport:4.0.25.Final"
+      "name": "io.netty:netty-transport:4.0.25.Final",
+      "hash": "87AB9371D4CA7D39D21A0B9D32E2DE27"
     },
     {
-      "name": "io.netty:netty-transport-native-epoll:4.0.25.Final"
+      "name": "io.netty:netty-transport-native-epoll:4.0.25.Final",
+      "hash": "894463D27418B1078DF5EE65FEA2A905"
     },
     {
-      "name": "com.fasterxml.jackson.core:jackson-core:2.4.3"
+      "name": "com.fasterxml.jackson.core:jackson-core:2.4.3",
+      "hash": "750EF3D86F04FE0D6D14D6AE904A6D2D"
     },
     {
-      "name": "com.fasterxml.jackson.core:jackson-databind:2.4.3"
+      "name": "com.fasterxml.jackson.core:jackson-databind:2.4.3",
+      "hash": "4FCB9F74280EAA21DE10191212C65B11"
     },
     {
-      "name": "com.fasterxml.jackson.core:jackson-annotations:2.4.0"
+      "name": "com.fasterxml.jackson.core:jackson-annotations:2.4.0",
+      "hash": "6DF1B79EC2E57D62106EB47129E4F7A3"
     },
     {
-      "name": "io.socket:socket.io-client:0.6.2"
+      "name": "io.socket:socket.io-client:0.6.2",
+      "hash": "5E473A0F58069DB2AC409C496DDED17C"
     },
     {
-      "name": "io.socket:engine.io-client:0.6.2"
+      "name": "io.socket:engine.io-client:0.6.2",
+      "hash": "FF3971636285B3BBD7D2F41DBFF44132"
     },
     {
-      "name": "org.json:json:20090211"
+      "name": "org.json:json:20090211",
+      "hash": "333139FFFC6C9D4BC3D2495D9613F092"
     },
     {
-      "name": "com.squareup.okio:okio:1.6.0"
+      "name": "com.squareup.okio:okio:1.6.0",
+      "hash": "164D1C28C323CF6E2A917D60374C5718"
     },
     {
-      "name": "com.squareup.okhttp:okhttp:2.5.0"
+      "name": "com.squareup.okhttp:okhttp:2.5.0",
+      "hash": "EB8BF45F81BF9F17D1FCFB2ECA63AAA6"
     },
     {
-      "name": "com.squareup.okhttp:okhttp-ws:2.5.0"
+      "name": "com.squareup.okhttp:okhttp-ws:2.5.0",
+      "hash": "82B795B1CB16BF91265E1F0D0050C3D7"
     }
   ]
 }
