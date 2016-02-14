@@ -69,11 +69,11 @@
       "hash": ""
     },
     {
-      "name": "com.squareup.okhttp:okhttp:3.0.1",
+      "name": "com.squareup.okhttp3:okhttp:3.0.1",
       "hash": ""
     },
     {
-      "name": "com.squareup.okhttp:okhttp-ws:3.0.1",
+      "name": "com.squareup.okhttp3:okhttp-ws:3.0.1",
       "hash": ""
     }
   ]
