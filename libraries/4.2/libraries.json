@@ -2,79 +2,79 @@
   "libraries": [
     {
       "name": "com.corundumstudio.socketio:netty-socketio:1.7.9",
-      "hash": ""
+      "hash": "aff22f9d494f5ebb5a07d45a82f54a85"
     },
     {
       "name": "org.slf4j:slf4j-api:1.7.12",
-      "hash": ""
+      "hash": "68910bf95dbcf90ce5859128f0f75d1e"
     },
     {
       "name": "org.slf4j:slf4j-simple:1.7.12",
-      "hash": ""
+      "hash": "cb57410c6be440d04777d60ad4e17dcd"
     },
     {
       "name": "io.netty:netty-buffer:4.1.0.CR2",
-      "hash": ""
+      "hash": "1cf472cfe09f2806de279c8e44bc4f65"
     },
     {
       "name": "io.netty:netty-common:4.1.0.CR2",
-      "hash": ""
+      "hash": "0592b2a750ab400e222a9ed51699b023"
     },
     {
       "name": "io.netty:netty-codec:4.1.0.CR2",
-      "hash": ""
+      "hash": "5f889c4898531275140a2324a7738543"
     },
     {
       "name": "io.netty:netty-codec-http:4.1.0.CR2",
-      "hash": ""
+      "hash": "06a813b8644c81895917d69bd40c3b82"
     },
     {
       "name": "io.netty:netty-handler:4.1.0.CR2",
-      "hash": ""
+      "hash": "6479349aea7e51fb84e8964aa8804dd7"
     },
     {
       "name": "io.netty:netty-transport:4.1.0.CR2",
-      "hash": ""
+      "hash": "f4a757a2a8c43659c4970935f67fe423"
     },
     {
       "name": "io.netty:netty-transport-native-epoll:4.1.0.CR2",
-      "hash": ""
+      "hash": "f42f5308072ce577460e2438111b154e"
     },
     {
       "name": "com.fasterxml.jackson.core:jackson-core:2.6.3",
-      "hash": ""
+      "hash": "a9f7504e534420911ff6afdc1019cf5e"
     },
     {
       "name": "com.fasterxml.jackson.core:jackson-databind:2.6.3",
-      "hash": ""
+      "hash": "39499f57d90a208fbe67a3e91f5ac058"
     },
     {
       "name": "com.fasterxml.jackson.core:jackson-annotations:2.6.0",
-      "hash": ""
+      "hash": "b82283550745b69dd95e7d835714e971"
     },
     {
       "name": "io.socket:socket.io-client:0.7.0",
-      "hash": ""
+      "hash": "b5b1aeade888c2ccb5c588747aa8a94d"
     },
     {
       "name": "io.socket:engine.io-client:0.7.0",
-      "hash": ""
+      "hash": "def400641e3281c228c13c52b057e200"
     },
     {
       "name": "org.json:json:20090211",
-      "hash": ""
+      "hash": "333139fffc6c9d4bc3d2495d9613f092"
     },
     {
       "name": "com.squareup.okio:okio:1.6.0",
-      "hash": ""
+      "hash": "164d1c28c323cf6e2a917d60374c5718"
     },
     {
       "name": "com.squareup.okhttp3:okhttp:3.0.1",
-      "hash": ""
+      "hash": "1f562f1c63a3035a226a2c3cdd2f40f2"
     },
     {
       "name": "com.squareup.okhttp3:okhttp-ws:3.0.1",
-      "hash": ""
+      "hash": "1861abf8ccdeb00fca242ca2cb3eb362"
     }
   ]
 }
