@@ -1,0 +1,80 @@
+{
+  "libraries": [
+    {
+      "name": "com.corundumstudio.socketio:netty-socketio:1.7.9",
+      "hash": ""
+    },
+    {
+      "name": "org.slf4j:slf4j-api:1.7.12",
+      "hash": ""
+    },
+    {
+      "name": "org.slf4j:slf4j-simple:1.7.12",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-buffer:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-common:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-codec:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-codec-http:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-handler:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-transport:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "io.netty:netty-transport-native-epoll:4.1.0.CR2",
+      "hash": ""
+    },
+    {
+      "name": "com.fasterxml.jackson.core:jackson-core:2.6.3",
+      "hash": ""
+    },
+    {
+      "name": "com.fasterxml.jackson.core:jackson-databind:2.6.3",
+      "hash": ""
+    },
+    {
+      "name": "com.fasterxml.jackson.core:jackson-annotations:2.6.0",
+      "hash": ""
+    },
+    {
+      "name": "io.socket:socket.io-client:0.7.0",
+      "hash": ""
+    },
+    {
+      "name": "io.socket:engine.io-client:0.7.0",
+      "hash": ""
+    },
+    {
+      "name": "org.json:json:20090211",
+      "hash": ""
+    },
+    {
+      "name": "com.squareup.okio:okio:1.6.0",
+      "hash": ""
+    },
+    {
+      "name": "com.squareup.okhttp:okhttp:3.0.1",
+      "hash": ""
+    },
+    {
+      "name": "com.squareup.okhttp:okhttp-ws:3.0.1",
+      "hash": ""
+    }
+  ]
+}
